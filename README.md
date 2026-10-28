@@ -1,6 +1,6 @@
 # Awesome LLM Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curation of awesome tools, documents and projects about LLM Security.
+A curation of awesome tools, documents and projects about LLM Security.- 
 
 Contributions are always welcome. Please read the [Contribution Guidelines](CONTRIBUTING.md) before contributing.
 
@@ -106,6 +106,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 ## Tools
 
 - [UTCP](https://github.com/universal-tool-calling-protocol/): Secure, direct tool-calling to any native endpoint for your AI agent
+- [Protocol One ACP (Alfa Command Protocol) and AI Index v3.0](https://protocolone.store/pages/ai-index) - Pre-deterministic outcome engine (`src/acp_engine.py`, [GitHub](https://github.com/firstpageseollc-lgtm/protocol-one-ai-index-v3)) and cryptographic verification standards for AI agent tool calls and executive deepfake defense.
 - [Plexiglass](https://github.com/kortex-labs/plexiglass): a security toolbox for testing and safeguarding LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social)
 - [PurpleLlama](https://github.com/facebookresearch/PurpleLlama): set of tools to assess and improve LLM security. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
 - [Rebuff](https://github.com/protectai/rebuff): a self-hardening prompt injection detector ![GitHub Repo stars](https://img.shields.io/github/stars/protectai/rebuff?style=social)
